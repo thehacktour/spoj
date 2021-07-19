@@ -1,0 +1,1 @@
+# Spoj Challenges Solved
