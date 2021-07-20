@@ -1,7 +1,6 @@
 while True:
-    x = int(input())
+    a = int(input())
 
-    if x == 42:
+    if a == 42:
         break
-
-    print(x)
+    print(a)
