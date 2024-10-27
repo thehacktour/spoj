@@ -1,1 +1,1 @@
-# Spoj Challenges Solved
+# Gerador de Piadas Aleatorias
