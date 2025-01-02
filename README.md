@@ -1,3 +1,4 @@
-# Sobre Mim
+# About Me
 
-#### Essa é uma aplicação que vai mostrar todos os detalhes sobre a minha carreira, minhas experiências como engenheiro de software, projetos que estou envolvido e informações adicionais! :)
+##### This is an application that will show all the details about my career, my experiences as a software engineer, projects I am involved in and additional information! :)
+
